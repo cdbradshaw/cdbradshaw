@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Cheryl and I am a new software developer studying with Tech Elevator.
+
 <!--
 **cdbradshaw/cdbradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
